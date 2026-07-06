@@ -14,10 +14,13 @@ Separately, using the Kids-in-Mind dataset I compiled, I calculated the average 
 **Google Sheet:** [View the full analysis and data](https://docs.google.com/spreadsheets/d/1fdiWsV4T6JzG5SteV_WnNISDfum2Kdje1lRsLWonGeQ/edit?usp=sharing)
 ### Data Visualization
 ![Deaths and Curses per Minute by Film](Chart1.png)
+
 This first chart vizualizes the deaths and curses per minute of runtime across Tarantino's seven films, controlling for length. *Kill Bill: Vol. 1* (2003) is the only film in the dataset where the death rate exceeds the curse rate. Source: FiveThirtyEight, "A Complete Catalog Of Every Time Someone Cursed Or Bled Out In A Quentin Tarantino Movie"; runtime data from IMDb. Calculated by author.
 ![Curses per death, 1992-2012](Chart2.png)
+
 This second chart visualizes the ratio of curses to on-screen deaths per film, in chronological order. *Jackie Brown* has roughly 92 curses for every on-screen death, while *Kill Bill: Vol. 1* is nearly 1-to-1 — showing how quickly Tarantino's dialogue-to-violence balance shifted after his first decade of filmmaking. Source: FiveThirtyEight, "A Complete Catalog Of Every Time Someone Cursed Or Bled Out In A Quentin Tarantino Movie." Calculated by author.
 ![Tarantino vs. Comparable Films: Violence and Language](Chart3.png)
+
 This third chart visualizes the average Kids-in-Mind Violence and Language severity scores (0–10 scale) for Tarantino's films (n=6, *Jackie Brown* excluded due to no entry) versus 15 comparable R-rated crime, action, and thriller films from the same eras. Tarantino's films score notably higher on violence, but his language scores are nearly identical to genre peers — suggesting his reputation for exceptionally foul dialogue may not hold up against similarly-rated films. Source: Kids-in-Mind (kids-in-mind.com). Calculated by author.
 ## Methods and Limitations
 ### Methods
